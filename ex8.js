@@ -13,6 +13,5 @@ let animales = ["Elefante", "Tigre", "Leopardo", "Ñu", "Pantera"];
 
 console.log(cortaPorAqui("Elefante", "Leopardo", animales)); // ["Elefante", "Tigre", "Leopardo"]
 console.log(cortaPorAqui("Tigre", "Ñu", animales)); // ["Tigre", "Leopardo", "Ñu"]
-
-//
+console.log(cortaPorAqui("Tigre", "Tigre", animales)); // ["Tigre"]
 

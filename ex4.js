@@ -56,7 +56,7 @@ const items = [
     }
 ];
 
-// usa el método .some para averiguar si existe alguna tarea que contenga el texto "Ballena". Piensa bien que campo deberías comprobar
+// Usa el método .some para averiguar si existe alguna tarea que contenga el texto "Ballena". Piensa bien que campo deberías comprobar.
 
 console.log(items.some()); //TODO. Resultado esperado: false
 
