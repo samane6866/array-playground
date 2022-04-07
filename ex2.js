@@ -1,6 +1,6 @@
 // map
 
-// Utiliza el método map para devolver un nuevo array indicando la posición de cada uno de los elementos del array original con el siguiente formato. Pista: la función de callback de .map puede recibir más de un parámetro...
+// Utiliza el método map para devolver un nuevo array indicando la posición de cada uno de los elementos del array original con el siguiente formato: ['{índice de la posición que ocupa el elemento}-elemento']. Pista: la función de callback de .map puede recibir más de un parámetro...
 
 let colors = ["Blue", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow "];
 
